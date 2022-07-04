@@ -144,7 +144,7 @@
       </con:restRequest>
     </con:config>
   </con:testStep>
-  <con:testStep type="groovy" name="Groovy Script" id="d7f2bee6-9c33-4f74-85d6-14250c17cc0f">
+  <con:testStep type="groovy" name="Groovy Script11" id="d7f2bee6-9c33-4f74-85d6-14250c17cc0f">
     <con:settings/>
     <con:config>
       <script>foo 	foo
