@@ -158,6 +158,12 @@
 bar ba</script>
     </con:config>
   </con:testStep>
+  <con:testStep type="groovy" name="Groovy Script13" id="4587c74c-24cf-42b4-88d5-12a84f289d27">
+    <con:settings/>
+    <con:config>
+      <script>sdagsadgsa</script>
+    </con:config>
+  </con:testStep>
   <con:properties/>
   <con:reportParameters/>
   <con:environmentSpec>
